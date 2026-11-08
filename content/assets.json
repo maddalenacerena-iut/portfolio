@@ -1,0 +1,472 @@
+{
+  "source_root": "/tmp/codex-remote-attachments/01a1bd17-3a27-7213-ae1f-17f25e260055",
+  "policy": "Les pièces jointes sont copiées octet pour octet. Les originaux précédents sont conservés. Les fichiers signalés hors affichage ne sont pas référencés par les projets.",
+  "files": [
+    {
+      "source": "8F655FDD-C6A2-4507-A299-B7B9F8FC8D9E/1-Photo-1.jpg",
+      "destination": "images/honeylang/affiche/honeylang-affiche-collage-original.jpg",
+      "project_slug": "honeylang-affiche",
+      "status": "integrated",
+      "sha256": "9a55da1605cc9f683b37ab59b575082bf9335d416acf64dafaa7f8246c822368",
+      "width": 837,
+      "height": 1046,
+      "duplicate_of": null
+    },
+    {
+      "source": "8F655FDD-C6A2-4507-A299-B7B9F8FC8D9E/2-Photo-2.jpg",
+      "destination": "images/honeylang/bannieres/honeylang-banniere-collage-original.jpg",
+      "project_slug": "honeylang-banniere",
+      "status": "integrated",
+      "sha256": "c8911f616f4f9f50521dfbf420fa0fc6837a7982727a92fa4fa127db82be697f",
+      "width": 1280,
+      "height": 400,
+      "duplicate_of": null
+    },
+    {
+      "source": "8F655FDD-C6A2-4507-A299-B7B9F8FC8D9E/3-Photo-3.jpg",
+      "destination": "images/honeylang/affiche/honeylang-affiche-parfums-original.jpg",
+      "project_slug": "honeylang-affiche",
+      "status": "integrated",
+      "sha256": "f753dc560ee731583b508f53cde91239b42902e799337ebd4ce463d73a40ced0",
+      "width": 742,
+      "height": 927,
+      "duplicate_of": null
+    },
+    {
+      "source": "8F655FDD-C6A2-4507-A299-B7B9F8FC8D9E/4-Photo-4.jpg",
+      "destination": "images/honeylang/bannieres/honeylang-banniere-parfums-original.jpg",
+      "project_slug": "honeylang-banniere",
+      "status": "integrated",
+      "sha256": "5355ee7e490a79fa6e7297af220633e8291ab7a6eecab8fb2b998d6d52d17588",
+      "width": 1280,
+      "height": 401,
+      "duplicate_of": null
+    },
+    {
+      "source": "8F655FDD-C6A2-4507-A299-B7B9F8FC8D9E/5-Photo-5.jpg",
+      "destination": "images/honeylang/bannieres/honeylang-banniere-vanille-original.jpg",
+      "project_slug": "honeylang-banniere",
+      "status": "integrated",
+      "sha256": "588764fd7f90e47896d918170d7cd244cacbd80c03dcb0c2e7de48f109b72ac5",
+      "width": 1280,
+      "height": 400,
+      "duplicate_of": null
+    },
+    {
+      "source": "8F655FDD-C6A2-4507-A299-B7B9F8FC8D9E/6-Photo-6.jpg",
+      "destination": "images/honeylang/bannieres/honeylang-banniere-pierre-original.jpg",
+      "project_slug": "honeylang-banniere",
+      "status": "preserved_previous_selection",
+      "sha256": "dbb220e787b27b215e79e98f79b533b90d2162d7734abdd8ce50f14931169fb8",
+      "width": 1280,
+      "height": 404,
+      "duplicate_of": null
+    },
+    {
+      "source": "8F655FDD-C6A2-4507-A299-B7B9F8FC8D9E/7-Photo-7.jpg",
+      "destination": "images/non-integres/honeylang/honeylang-banniere-parfums-doublon.jpg",
+      "project_slug": "honeylang-banniere",
+      "status": "archived_visual_duplicate",
+      "sha256": "f48f6385ec03028574d7d2752bbf21190a23192e84260c56a12feab13fccce89",
+      "width": 1280,
+      "height": 401,
+      "duplicate_of": "images/honeylang/bannieres/honeylang-banniere-parfums-original.jpg"
+    },
+    {
+      "source": "8F655FDD-C6A2-4507-A299-B7B9F8FC8D9E/8-Photo-8.jpg",
+      "destination": "images/myledmask/myledmask-flyer-v2-visuel-1-original.jpg",
+      "project_slug": "myledmask",
+      "status": "integrated",
+      "sha256": "ec254c2c3e6fa88421a9e34ce23e19943d79e769eadbb5f04c1a32811e642fde",
+      "width": 904,
+      "height": 1280,
+      "duplicate_of": null,
+      "former_project_slug": "myledmask-v2",
+      "variant": "version-2"
+    },
+    {
+      "source": "8F655FDD-C6A2-4507-A299-B7B9F8FC8D9E/9-Photo-9.jpg",
+      "destination": "images/myledmask/myledmask-flyer-v2-visuel-2-original.jpg",
+      "project_slug": "myledmask",
+      "status": "integrated",
+      "sha256": "dce0fe8b7aec772666db28b3484b0f241a611db39547d40166a7c73bb3c6e33b",
+      "width": 904,
+      "height": 1280,
+      "duplicate_of": null,
+      "former_project_slug": "myledmask-v2",
+      "variant": "version-2"
+    },
+    {
+      "source": "8F655FDD-C6A2-4507-A299-B7B9F8FC8D9E/10-Photo-10.jpg",
+      "destination": "images/harmonia/harmonia-affiche-original.jpg",
+      "project_slug": "harmonia",
+      "status": "integrated",
+      "sha256": "0cdb4bebf760f6383ad9a3f041b1e58bcadf60ba5bb7805ea301bea8b91007c8",
+      "width": 418,
+      "height": 651,
+      "duplicate_of": null,
+      "additional_copy": "images/non-integres/harmonia/harmonia-affiche-original.jpg"
+    },
+    {
+      "source": "184A1944-495F-4BB0-A77B-477F228B5CFC/1-Photo-1.jpg",
+      "destination": "images/non-integres/harmonia/harmonia-logo-original.jpg",
+      "project_slug": "harmonia",
+      "status": "archived_different_project_type",
+      "sha256": "2403c6da38fbf665735320582a9c0efc09111fb4a8c64607dc06e701e971e45a",
+      "width": 516,
+      "height": 630,
+      "duplicate_of": null
+    },
+    {
+      "source": "184A1944-495F-4BB0-A77B-477F228B5CFC/2-Photo-2.jpg",
+      "destination": "images/ethiopik/identite/ethiopik-logo-original.jpg",
+      "project_slug": "ethiopik-identite",
+      "status": "integrated",
+      "sha256": "f6442eb7107e8d8b8e05751e73971498255bfa1108548bf7158937d8e40f73d5",
+      "width": 1280,
+      "height": 499,
+      "duplicate_of": null
+    },
+    {
+      "source": "184A1944-495F-4BB0-A77B-477F228B5CFC/3-Photo-3.jpg",
+      "destination": "images/am-project/linkedin/am-linkedin-original.jpg",
+      "project_slug": "am-linkedin",
+      "status": "integrated",
+      "sha256": "6ea17f92d178fdbbf2216d0b6e1c36212cdff04fa314747d72fcfac9e93b1c23",
+      "width": 974,
+      "height": 945,
+      "duplicate_of": null
+    },
+    {
+      "source": "184A1944-495F-4BB0-A77B-477F228B5CFC/4-Photo-4.jpg",
+      "destination": "images/myledmask/myledmask-flyer-v1-original.jpg",
+      "project_slug": "myledmask",
+      "status": "integrated",
+      "sha256": "3966d1036412daa16c712ba381f30aa44dbfbfc65443c2f0ba7f886d59d59b8d",
+      "width": 675,
+      "height": 969,
+      "duplicate_of": null
+    },
+    {
+      "source": "184A1944-495F-4BB0-A77B-477F228B5CFC/5-Photo-5.jpg",
+      "destination": "images/am-project/instagram/am-carousel-02-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "8bd9dfe166a496bb2de1bd23fe92f34117eb29b63ca408cfbb6d75952cd2059c",
+      "width": 821,
+      "height": 1023,
+      "duplicate_of": null
+    },
+    {
+      "source": "184A1944-495F-4BB0-A77B-477F228B5CFC/6-Photo-6.jpg",
+      "destination": "images/am-project/instagram/am-carousel-03-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "c88dc8c392608daa28202cf9cc860df968ed8b4fd5239e2db36a9b83ff9a651f",
+      "width": 815,
+      "height": 1031,
+      "duplicate_of": null
+    },
+    {
+      "source": "184A1944-495F-4BB0-A77B-477F228B5CFC/7-Photo-7.jpg",
+      "destination": "images/am-project/instagram/am-carousel-04-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "fbab542239063bdc29961226b243534c44fe236cb47bfe6d61aecc58771b6513",
+      "width": 816,
+      "height": 1025,
+      "duplicate_of": null
+    },
+    {
+      "source": "184A1944-495F-4BB0-A77B-477F228B5CFC/8-Photo-8.jpg",
+      "destination": "images/am-project/instagram/am-carousel-05-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "6da9479df8e43f4e0a2d8542a4276b3c15cfbfe459afe081e273673a2394d28b",
+      "width": 820,
+      "height": 1016,
+      "duplicate_of": null
+    },
+    {
+      "source": "184A1944-495F-4BB0-A77B-477F228B5CFC/9-Photo-9.jpg",
+      "destination": "images/am-project/instagram/am-carousel-01-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "f60b05078b87e51ba2aa744f53e9c5de5fbe103fcbbfd90985fd857489f67a11",
+      "width": 817,
+      "height": 1029,
+      "duplicate_of": null
+    },
+    {
+      "source": "4BBC6D78-02E8-4345-84AC-FE83BB8D011E/1-CV-11-26.pdf",
+      "destination": "documents/cv-cerena-maddalena.pdf",
+      "status": "integrated",
+      "sha256": "3eace143d510dddce8d1d7afa115d05056becef60f1d2f128be35673042ec256",
+      "previous_version": "documents/archive/cv-avant-novembre-2026.pdf",
+      "previous_version_sha256": "382ec30b96615bec41b8f4a1477fa749ea779b2faaa10aa0910a7bc1005f05c5"
+    },
+    {
+      "source": "0CBDDB8B-841A-4323-9637-1F36510DD8F8/1-Photo-1.jpg",
+      "destination": "images/honeylang/bannieres/honeylang-banniere-vanille-original.jpg",
+      "project_slug": "honeylang-banniere",
+      "status": "integrated",
+      "sha256": "588764fd7f90e47896d918170d7cd244cacbd80c03dcb0c2e7de48f109b72ac5",
+      "width": 1280,
+      "height": 400,
+      "selection_order": 1,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "0CBDDB8B-841A-4323-9637-1F36510DD8F8/2-Photo-2.jpg",
+      "destination": "images/honeylang/bannieres/honeylang-banniere-parfums-original.jpg",
+      "project_slug": "honeylang-banniere",
+      "status": "integrated",
+      "sha256": "5355ee7e490a79fa6e7297af220633e8291ab7a6eecab8fb2b998d6d52d17588",
+      "width": 1280,
+      "height": 401,
+      "selection_order": 2,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "0CBDDB8B-841A-4323-9637-1F36510DD8F8/3-Photo-3.jpg",
+      "destination": "images/honeylang/bannieres/honeylang-banniere-collage-original.jpg",
+      "project_slug": "honeylang-banniere",
+      "status": "integrated",
+      "sha256": "c8911f616f4f9f50521dfbf420fa0fc6837a7982727a92fa4fa127db82be697f",
+      "width": 1280,
+      "height": 400,
+      "selection_order": 3,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "0CBDDB8B-841A-4323-9637-1F36510DD8F8/4-Photo-4.jpg",
+      "destination": "images/honeylang/bannieres/honeylang-banniere-pierre-novembre.jpg",
+      "project_slug": "honeylang-banniere",
+      "status": "integrated",
+      "sha256": "a3523582195da98a8f79ee1f14f4fc665aa1dc6e55ca3f8b29da7271832e3689",
+      "width": 1280,
+      "height": 396,
+      "selection_order": 4,
+      "reuses_identical_file": false,
+      "duplicate_of": null
+    },
+    {
+      "source": "CC35FEFF-8CF2-48BC-BA87-BB99BC8F2CC3/1-Photo-1.jpg",
+      "destination": "images/honeylang/affiche/honeylang-affiche-parfums-original.jpg",
+      "project_slug": "honeylang-affiche",
+      "status": "integrated",
+      "sha256": "f753dc560ee731583b508f53cde91239b42902e799337ebd4ce463d73a40ced0",
+      "width": 742,
+      "height": 927,
+      "selection_order": 1,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "CC35FEFF-8CF2-48BC-BA87-BB99BC8F2CC3/2-Photo-2.jpg",
+      "destination": "images/honeylang/affiche/honeylang-affiche-collage-original.jpg",
+      "project_slug": "honeylang-affiche",
+      "status": "integrated",
+      "sha256": "9a55da1605cc9f683b37ab59b575082bf9335d416acf64dafaa7f8246c822368",
+      "width": 837,
+      "height": 1046,
+      "selection_order": 2,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "FA18EC50-D24C-4147-B871-894900852C00/1-Photo-1.jpg",
+      "destination": "images/myledmask/myledmask-flyer-v1-original.jpg",
+      "project_slug": "myledmask",
+      "status": "integrated",
+      "sha256": "3966d1036412daa16c712ba381f30aa44dbfbfc65443c2f0ba7f886d59d59b8d",
+      "width": 675,
+      "height": 969,
+      "selection_order": 1,
+      "caption": "myLEDmask — Flyer, version 1 · Recto",
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "FA18EC50-D24C-4147-B871-894900852C00/2-Photo-2.jpg",
+      "destination": "images/myledmask/myledmask-flyer-v2-visuel-1-original.jpg",
+      "project_slug": "myledmask",
+      "status": "integrated",
+      "sha256": "ec254c2c3e6fa88421a9e34ce23e19943d79e769eadbb5f04c1a32811e642fde",
+      "width": 904,
+      "height": 1280,
+      "selection_order": 1,
+      "caption": "myLEDmask — Flyer, version 2 · Recto",
+      "reuses_identical_file": true,
+      "duplicate_of": null,
+      "former_project_slug": "myledmask-v2",
+      "variant": "version-2"
+    },
+    {
+      "source": "FA18EC50-D24C-4147-B871-894900852C00/3-Photo-3.jpg",
+      "destination": "images/myledmask/myledmask-flyer-v2-visuel-2-original.jpg",
+      "project_slug": "myledmask",
+      "status": "integrated",
+      "sha256": "dce0fe8b7aec772666db28b3484b0f241a611db39547d40166a7c73bb3c6e33b",
+      "width": 904,
+      "height": 1280,
+      "selection_order": 2,
+      "caption": "myLEDmask — Flyer, version 2 · Verso",
+      "reuses_identical_file": true,
+      "duplicate_of": null,
+      "former_project_slug": "myledmask-v2",
+      "variant": "version-2"
+    },
+    {
+      "source": "BF898544-0FE2-4C92-B92C-3681EA721E4C/1-Photo-1.jpg",
+      "destination": "images/am-project/instagram/am-carousel-01-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "f60b05078b87e51ba2aa744f53e9c5de5fbe103fcbbfd90985fd857489f67a11",
+      "width": 817,
+      "height": 1029,
+      "selection_order": 1,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "BF898544-0FE2-4C92-B92C-3681EA721E4C/2-Photo-2.jpg",
+      "destination": "images/am-project/instagram/am-carousel-02-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "8bd9dfe166a496bb2de1bd23fe92f34117eb29b63ca408cfbb6d75952cd2059c",
+      "width": 821,
+      "height": 1023,
+      "selection_order": 2,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "BF898544-0FE2-4C92-B92C-3681EA721E4C/3-Photo-3.jpg",
+      "destination": "images/am-project/instagram/am-carousel-03-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "c88dc8c392608daa28202cf9cc860df968ed8b4fd5239e2db36a9b83ff9a651f",
+      "width": 815,
+      "height": 1031,
+      "selection_order": 3,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "BF898544-0FE2-4C92-B92C-3681EA721E4C/4-Photo-4.jpg",
+      "destination": "images/am-project/instagram/am-carousel-04-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "fbab542239063bdc29961226b243534c44fe236cb47bfe6d61aecc58771b6513",
+      "width": 816,
+      "height": 1025,
+      "selection_order": 4,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "BF898544-0FE2-4C92-B92C-3681EA721E4C/5-Photo-5.jpg",
+      "destination": "images/am-project/instagram/am-carousel-05-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "6da9479df8e43f4e0a2d8542a4276b3c15cfbfe459afe081e273673a2394d28b",
+      "width": 820,
+      "height": 1016,
+      "selection_order": 5,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "BF898544-0FE2-4C92-B92C-3681EA721E4C/6-Photo-6.jpg",
+      "destination": "images/am-project/instagram/am-carousel-06-original.jpg",
+      "project_slug": "am-carrousel",
+      "status": "integrated",
+      "sha256": "76f957205c8c239d066a0b95ac5a00635e8d558f019e6d3bd4926a09a4549ec6",
+      "width": 820,
+      "height": 1025,
+      "selection_order": 6,
+      "reuses_identical_file": false,
+      "duplicate_of": null
+    },
+    {
+      "source": "6C498113-96A4-4FA5-B262-B45F0192159F/1-Photo-1.jpg",
+      "destination": "images/am-project/linkedin/am-linkedin-original.jpg",
+      "project_slug": "am-linkedin",
+      "status": "integrated",
+      "sha256": "6ea17f92d178fdbbf2216d0b6e1c36212cdff04fa314747d72fcfac9e93b1c23",
+      "width": 974,
+      "height": 945,
+      "selection_order": 1,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "9A567B8A-93A1-4C83-947A-64FC2149BFB3/1-Photo-1.jpg",
+      "destination": "images/harmonia/harmonia-affiche-original.jpg",
+      "project_slug": "harmonia",
+      "status": "integrated",
+      "sha256": "0cdb4bebf760f6383ad9a3f041b1e58bcadf60ba5bb7805ea301bea8b91007c8",
+      "width": 418,
+      "height": 651,
+      "selection_order": 1,
+      "reuses_identical_file": true,
+      "duplicate_of": null
+    },
+    {
+      "source": "8EF210DF-7D4F-4E0D-8724-0074936279FF/1-CV-11-26.pdf",
+      "destination": "documents/cv-cerena-maddalena.pdf",
+      "status": "integrated_latest_cv",
+      "sha256": "3eace143d510dddce8d1d7afa115d05056becef60f1d2f128be35673042ec256",
+      "reuses_identical_file": true
+    }
+  ],
+  "notes": [
+    "Honeylang photos 4 et 7 du premier lot présentent la même composition, avec une légère différence de rendu ; la photo 4 est affichée et la photo 7 archivée.",
+    "Les emplacements illustrés par des paysages et nuages dans l’écran 04 AM Project sont présents dans le fichier original et ne sont pas retouchés.",
+    "Le nouveau CV confirme DUT et L3 Management des Technologies et Sciences. Après confirmation explicite de Céréna, le portfolio affiche Hôtel Mocka / Anyx comme le nouveau CV, conservé sans retouche.",
+    "Après confirmation explicite de Céréna, le projet 09 est Harmonia — Affiche. La nouvelle affiche originale est affichée avec les textes validés du dépôt initial. Le logo reste hors galerie et aucun projet supplémentaire n’est ajouté.",
+    "Nouvelle sélection confirmée par l’envoi du projet 01 : quatre bannières dans l’ordre vanille, parfums dorés, collage, pierre sombre. Les trois premiers fichiers sont identiques aux originaux déjà reçus ; le fond sombre utilise le nouveau recadrage. La bannière portraits précédente est conservée sur disque et retirée de l’affichage.",
+    "Nouvelle sélection du projet 02 : affiche parfums dorés puis affiche collage, dans l’ordre du dernier envoi. Les fichiers reçus sont prioritaires et préservés sans modification.",
+    "Dernière correction explicite : myLEDmask constitue un seul projet 03 avec deux versions : beige recto seul puis noir recto et verso. La galerie comporte désormais 13 projets ; l’ancienne adresse myledmask-v2.html redirige vers la fiche regroupée.",
+    "Céréna confirme de conserver les visuels actuels de la plaquette commerciale Ethiopik et de son identité visuelle.",
+    "Le dernier envoi AM Project remplace le carrousel complet par ses six images 01 à 06, et confirme la publication LinkedIn sélectionnée.",
+    "Céréna confirme à nouveau Harmonia — Affiche et fournit son affiche originale ; aucun site Harmonia n’est présenté.",
+    "Le tout dernier PDF reçu est installé au chemin de téléchargement du CV. Il est identique octet pour octet au CV de novembre 2026 déjà intégré."
+  ],
+  "generated_assets": [
+    {
+      "destination": "images/accueil/fond-floral-recree.webp",
+      "source": "/workspace/generated_images/exec-5fb8ad15-f95e-41dc-a675-d09632a62b2e.png",
+      "source_sha256": "089e573e2200be80bcab8463cd8ff639c38288fe28ff1682f9a656268bb6792d",
+      "sha256": "bab8938c430f37c68842a8c2e15c41aeb5cf4ef3612c2e0f757bc35bb4e1ef7e",
+      "width": 1942,
+      "height": 809,
+      "status": "integrated_homepage_decoration",
+      "authorization": "Céréna a demandé explicitement de recréer le fond floral de l’accueil à partir de son exemple, faute d’original. Cette exception concerne uniquement ce décor.",
+      "reference": "references/accueil-reference.jpg",
+      "processing": "Conversion WebP qualité 90, dimensions et composition conservées, aucun texte incorporé."
+    }
+  ],
+  "confirmed_existing_visuals": {
+    "ethiopik-plaquette": [
+      "images/ethiopik/plaquette/ethiopik-plaquette-ext.webp",
+      "images/ethiopik/plaquette/ethiopik-plaquette-int.webp"
+    ],
+    "ethiopik-identite": [
+      "images/ethiopik/identite/ethiopik-logo-original.jpg"
+    ]
+  },
+  "retained_projects_without_new_upload": [
+    "ethiopik-plaquette",
+    "ethiopik-catalogue",
+    "ethiopik-identite",
+    "ethiopik-instagram",
+    "votre-elegance",
+    "am-identite",
+    "am-site"
+  ]
+}

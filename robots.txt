@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maddalenacerena-iut.github.io/portfolio/sitemap.xml

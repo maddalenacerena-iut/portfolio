@@ -1,0 +1,340 @@
+[
+  {
+    "slug": "honeylang-banniere",
+    "brand": "Honeylang",
+    "title": "Bannière web",
+    "category": "Communication digitale · Création graphique",
+    "presentation": "Création de plusieurs propositions de bannières web pour Honeylang, marque de cosmétiques et de parfums inspirée des traditions comoriennes, autour de la mise en avant de ses produits et de leur arrivée en pharmacie.\n\nL’objectif de ces supports est de transmettre un message clair et attractif, tout en accordant une place importante à l’univers visuel de la marque.",
+    "approach": "Les différentes propositions permettent d’explorer plusieurs compositions graphiques, notamment dans le placement des produits, la hiérarchie des informations et l’équilibre entre les éléments visuels et textuels.",
+    "description": "Marque de cosmétiques et de parfums",
+    "images": [
+      "images/honeylang/bannieres/honeylang-banniere-vanille-original.jpg",
+      "images/honeylang/bannieres/honeylang-banniere-parfums-original.jpg",
+      "images/honeylang/bannieres/honeylang-banniere-collage-original.jpg",
+      "images/honeylang/bannieres/honeylang-banniere-pierre-novembre.jpg"
+    ],
+    "id": "projet-01",
+    "order": 1,
+    "cover": "images/honeylang/bannieres/honeylang-banniere-vanille-original.jpg",
+    "orientation": "horizontal",
+    "resource_note": null,
+    "missing_message": null,
+    "captions": [
+      "Proposition graphique 1",
+      "Proposition graphique 2",
+      "Proposition graphique 3",
+      "Proposition graphique 4"
+    ]
+  },
+  {
+    "slug": "honeylang-affiche",
+    "brand": "Honeylang",
+    "title": "Affiche",
+    "category": "Communication print · Création graphique",
+    "presentation": "Réalisation d’une affiche pour Honeylang, destinée à valoriser l’univers de la marque et à attirer l’attention sur ses produits.\n\nContrairement à la bannière web, cette création s’inscrit dans un format d’affichage qui nécessite une lecture rapide et une hiérarchisation efficace des informations.",
+    "approach": "La composition met l’accent sur la visibilité du message, le choix des éléments graphiques et la cohérence de l’ensemble avec l’identité de Honeylang.",
+    "description": "Marque de cosmétiques et de parfums",
+    "images": [
+      "images/honeylang/affiche/honeylang-affiche-parfums-original.jpg",
+      "images/honeylang/affiche/honeylang-affiche-collage-original.jpg"
+    ],
+    "id": "projet-02",
+    "order": 2,
+    "cover": "images/honeylang/affiche/honeylang-affiche-parfums-original.jpg",
+    "orientation": "mixed",
+    "resource_note": null,
+    "missing_message": null,
+    "captions": [
+      "Proposition graphique 1",
+      "Proposition graphique 2"
+    ]
+  },
+  {
+    "slug": "myledmask",
+    "brand": "myLEDmask",
+    "title": "Flyer",
+    "category": "Communication print · Création graphique",
+    "presentation": "Conception d’un flyer promotionnel pour myLEDmask, autour d’un produit de soin utilisant la technologie LED.\n\nCe support vise à présenter le produit de manière attractive et accessible, en mettant en avant son identité visuelle et les informations essentielles à sa découverte.\n\nDeuxième proposition de flyer promotionnel pour myLEDmask, autour de la présentation du masque de soin LED.\n\nCette création permet de présenter une autre approche graphique du support promotionnel, tout en conservant l’objectif de mettre en valeur le produit et ses informations essentielles.",
+    "approach": "Le travail graphique repose sur la recherche d’une composition équilibrée entre le produit, les textes et les éléments visuels, afin de faciliter la lecture et de capter l’attention.\n\nCette proposition explore une composition graphique différente, à travers l’organisation des textes, la place accordée au produit et la hiérarchie visuelle.\n\nLes caractéristiques précises de cette version doivent être décrites à partir du fichier original fourni, sans inventer de choix créatifs.",
+    "description": "Masque de soin LED",
+    "images": [
+      "images/myledmask/myledmask-flyer-v1-original.jpg",
+      "images/myledmask/myledmask-flyer-v2-visuel-1-original.jpg",
+      "images/myledmask/myledmask-flyer-v2-visuel-2-original.jpg"
+    ],
+    "id": "projet-03",
+    "order": 3,
+    "cover": "images/myledmask/myledmask-flyer-v1-original.jpg",
+    "orientation": "mixed",
+    "resource_note": null,
+    "missing_message": null,
+    "captions": [
+      "myLEDmask — Flyer, version 1 · Recto",
+      "myLEDmask — Flyer, version 2 · Recto",
+      "myLEDmask — Flyer, version 2 · Verso"
+    ],
+    "visual_groups": [
+      {
+        "title": "Version 1 — Recto seul",
+        "image_indices": [
+          0
+        ]
+      },
+      {
+        "title": "Version 2 — Recto et verso",
+        "image_indices": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ethiopik-plaquette",
+    "brand": "Ethiopik Travel",
+    "title": "Plaquette commerciale",
+    "category": "Communication print · Édition",
+    "presentation": "Conception d’une plaquette commerciale pour Ethiopik Travel, une agence de voyages spécialisée dans la découverte de l’Éthiopie.\n\nCe support a pour objectif de présenter l’agence et de valoriser son offre touristique auprès de clients potentiels.",
+    "approach": "La réalisation de cette plaquette a nécessité d’organiser les informations, de structurer les différentes pages et de travailler la mise en valeur des destinations et des prestations proposées.\n\nUne attention particulière a été portée à la lisibilité, à la cohérence graphique et à l’attractivité du document.",
+    "description": "Présentation de l’agence et de son offre touristique",
+    "images": [
+      "images/ethiopik/plaquette/ethiopik-plaquette-ext.webp",
+      "images/ethiopik/plaquette/ethiopik-plaquette-int.webp"
+    ],
+    "id": "projet-04",
+    "order": 4,
+    "cover": "images/ethiopik/plaquette/ethiopik-plaquette-ext.webp",
+    "orientation": "mixed",
+    "resource_note": "Volets extérieur et intérieur disponibles. Le PDF complet reste à fournir.",
+    "missing_message": null,
+    "captions": [
+      "Volets extérieurs",
+      "Volets intérieurs"
+    ]
+  },
+  {
+    "slug": "ethiopik-catalogue",
+    "brand": "Ethiopik Travel",
+    "title": "Catalogue",
+    "category": "Édition · Communication commerciale",
+    "presentation": "Création d’un catalogue touristique pour Ethiopik Travel, destiné à présenter les voyages et les expériences proposés par l’agence.\n\nCe document permet de découvrir les différentes offres à travers une présentation structurée, associant informations pratiques et éléments visuels.",
+    "approach": "Le travail a porté sur l’organisation du contenu, la mise en page et la valorisation des offres touristiques.\n\nL’objectif était de concevoir un document à la fois informatif et agréable à parcourir, tout en respectant l’identité de l’agence.",
+    "description": "Voyages et expériences en Éthiopie",
+    "images": [
+      "images/ethiopik/catalogue/catalogue-p1.png",
+      "images/ethiopik/catalogue/catalogue-p2.png",
+      "images/ethiopik/catalogue/catalogue-p8.png",
+      "images/ethiopik/catalogue/catalogue-p13.png",
+      "images/ethiopik/catalogue/catalogue-p18.png",
+      "images/ethiopik/catalogue/catalogue-p20.png",
+      "images/ethiopik/catalogue/catalogue-p25.png"
+    ],
+    "id": "projet-05",
+    "order": 5,
+    "cover": "images/ethiopik/catalogue/catalogue-p1.png",
+    "orientation": "mixed",
+    "resource_note": "Sélection disponible : pages 1, 2, 8, 13, 18, 20 et 25. Les autres pages et le document complet restent à fournir.",
+    "missing_message": null,
+    "captions": [
+      "Page 1",
+      "Page 2",
+      "Page 8",
+      "Page 13",
+      "Page 18",
+      "Page 20",
+      "Page 25"
+    ]
+  },
+  {
+    "slug": "ethiopik-identite",
+    "brand": "Ethiopik Travel",
+    "title": "Identité visuelle",
+    "category": "Branding · Identité de marque",
+    "presentation": "Travail autour de l’identité visuelle d’Ethiopik Travel, une agence de voyages mettant en avant la découverte de l’Éthiopie.\n\nCette identité accompagne la communication de l’agence sur ses différents supports commerciaux et digitaux.",
+    "approach": "La réflexion graphique vise à construire un univers cohérent, identifiable et adapté au secteur touristique.\n\nLes éléments visuels sont pensés pour assurer une continuité entre les différents supports de communication.",
+    "description": "Univers graphique de l’agence",
+    "images": [
+      "images/ethiopik/identite/ethiopik-logo-original.jpg"
+    ],
+    "id": "projet-06",
+    "order": 6,
+    "cover": "images/ethiopik/identite/ethiopik-logo-original.jpg",
+    "orientation": "mixed",
+    "resource_note": "Visuel présent dans le dépôt : signature de marque. Les éléments précisément conçus par Céréna restent à confirmer avant publication.",
+    "missing_message": null,
+    "captions": [
+      "Ethiopik Travel — Identité visuelle"
+    ]
+  },
+  {
+    "slug": "ethiopik-instagram",
+    "brand": "Ethiopik Travel",
+    "title": "Publications Instagram",
+    "category": "Réseaux sociaux · Communication touristique",
+    "presentation": "Création de publications Instagram pour Ethiopik Travel, destinées à faire découvrir l’univers de l’agence et à valoriser ses destinations et ses offres touristiques.\n\nLes réseaux sociaux constituent un support privilégié pour mettre en avant l’aspect visuel et culturel du voyage.",
+    "approach": "Le travail repose sur la sélection et l’organisation des contenus, la composition des visuels et l’adaptation des messages au format Instagram.\n\nL’objectif est de susciter l’intérêt pour les destinations proposées, tout en maintenant une identité graphique cohérente.",
+    "description": "Destinations et offres touristiques",
+    "images": [
+      "images/ethiopik/instagram/ethiopik-post-addis.webp",
+      "images/ethiopik/instagram/ethiopik-post-awash.webp",
+      "images/ethiopik/instagram/ethiopik-post-entoto.webp",
+      "images/ethiopik/instagram/ethiopik-post-melka.webp",
+      "images/ethiopik/instagram/ethiopik-post-vol.webp"
+    ],
+    "id": "projet-07",
+    "order": 7,
+    "cover": "images/ethiopik/instagram/ethiopik-post-addis.webp",
+    "orientation": "mixed",
+    "resource_note": null,
+    "missing_message": null,
+    "captions": [
+      "Ethiopik Travel — Publications Instagram · Visuel 1",
+      "Ethiopik Travel — Publications Instagram · Visuel 2",
+      "Ethiopik Travel — Publications Instagram · Visuel 3",
+      "Ethiopik Travel — Publications Instagram · Visuel 4",
+      "Ethiopik Travel — Publications Instagram · Visuel 5"
+    ]
+  },
+  {
+    "slug": "harmonia",
+    "brand": "Harmonia",
+    "title": "Affiche",
+    "category": "Communication print · Création graphique",
+    "presentation": "Réalisation d’une affiche pour Harmonia, un projet de marque de beauté.\n\nCe support présente une collection de soins capillaires à travers une composition associant les produits et l’univers visuel de la marque.",
+    "approach": "Le travail graphique porte sur la composition de l’affiche, la mise en valeur des produits et la hiérarchie des informations.\n\nL’objectif est de proposer un support lisible et cohérent avec l’univers de Harmonia.",
+    "description": "Affiche pour une marque de beauté",
+    "images": [
+      "images/harmonia/harmonia-affiche-original.jpg"
+    ],
+    "missing_message": null,
+    "id": "projet-08",
+    "order": 8,
+    "cover": "images/harmonia/harmonia-affiche-original.jpg",
+    "orientation": "mixed",
+    "resource_note": null,
+    "captions": [
+      "Harmonia — Affiche"
+    ]
+  },
+  {
+    "slug": "votre-elegance",
+    "brand": "Votre Élégance",
+    "title": "Logo",
+    "category": "Identité visuelle · Création graphique",
+    "presentation": "Création d’un logo pour Votre Élégance, avec l’objectif de proposer une identité graphique reconnaissable et adaptée à l’image de la marque.\n\nLe logo constitue un élément central de son identité visuelle, destiné à être utilisé sur différents supports de communication.",
+    "approach": "La réflexion porte sur les formes, la typographie, les couleurs et l’équilibre général de la composition.\n\nLe travail consiste à traduire visuellement l’identité souhaitée pour la marque à travers un symbole ou une signature graphique.",
+    "description": "Signature graphique de la marque",
+    "images": [
+      "images/votre-elegance/logo-elegance.webp"
+    ],
+    "id": "projet-09",
+    "order": 9,
+    "cover": "images/votre-elegance/logo-elegance.webp",
+    "orientation": "mixed",
+    "resource_note": null,
+    "missing_message": null,
+    "captions": [
+      "Votre Élégance — Logo"
+    ]
+  },
+  {
+    "slug": "am-linkedin",
+    "brand": "AM Project",
+    "title": "Publications LinkedIn",
+    "category": "Réseaux sociaux · Communication digitale",
+    "presentation": "Création de supports de communication destinés à LinkedIn pour AM Project.\n\nCes publications s’inscrivent dans une démarche de communication professionnelle visant à présenter des informations, valoriser les activités de l’entreprise et renforcer la cohérence de sa présence sur le réseau.",
+    "approach": "Le travail graphique consiste à adapter la présentation des contenus aux codes de LinkedIn, en privilégiant la clarté, la lisibilité et la hiérarchie des informations.",
+    "description": "Communication professionnelle",
+    "images": [
+      "images/am-project/linkedin/am-linkedin-original.jpg"
+    ],
+    "id": "projet-10",
+    "order": 10,
+    "cover": "images/am-project/linkedin/am-linkedin-original.jpg",
+    "orientation": "mixed",
+    "resource_note": null,
+    "missing_message": null,
+    "captions": [
+      "AM Project — Publications LinkedIn"
+    ]
+  },
+  {
+    "slug": "am-carrousel",
+    "brand": "AM Project",
+    "title": "Publications Instagram",
+    "category": "Réseaux sociaux · Création de contenu",
+    "presentation": "Création de contenus visuels destinés au compte Instagram d’AM Project.\n\nCes supports permettent d’adapter la communication de l’entreprise à un réseau social davantage centré sur l’image et la présentation visuelle.",
+    "approach": "La réalisation des contenus repose sur la composition graphique, le choix des éléments visuels et la cohérence entre les différentes publications.\n\nL’objectif est de proposer des supports adaptés au format Instagram tout en préservant l’identité de l’entreprise.",
+    "description": "Série de contenus pour les réseaux sociaux",
+    "images": [
+      "images/am-project/instagram/am-carousel-01-original.jpg",
+      "images/am-project/instagram/am-carousel-02-original.jpg",
+      "images/am-project/instagram/am-carousel-03-original.jpg",
+      "images/am-project/instagram/am-carousel-04-original.jpg",
+      "images/am-project/instagram/am-carousel-05-original.jpg",
+      "images/am-project/instagram/am-carousel-06-original.jpg"
+    ],
+    "id": "projet-11",
+    "order": 11,
+    "cover": "images/am-project/instagram/am-carousel-01-original.jpg",
+    "orientation": "mixed",
+    "resource_note": null,
+    "missing_message": null,
+    "captions": [
+      "Écran 1 du carrousel",
+      "Écran 2 du carrousel",
+      "Écran 3 du carrousel",
+      "Écran 4 du carrousel",
+      "Écran 5 du carrousel",
+      "Écran 6 du carrousel"
+    ]
+  },
+  {
+    "slug": "am-identite",
+    "brand": "AM Project",
+    "title": "Identité visuelle",
+    "category": "Branding · Communication visuelle",
+    "presentation": "Réalisation de supports liés à l’identité visuelle d’AM Project, afin d’accompagner sa communication et de renforcer la cohérence de son image.\n\nL’identité graphique joue un rôle important dans la reconnaissance de l’entreprise et dans l’harmonisation de ses différents supports.",
+    "approach": "Le travail consiste à rechercher une cohérence entre les couleurs, les typographies, les compositions et les éléments graphiques utilisés.",
+    "description": "Cohérence des supports de communication",
+    "images": [
+      "images/am-project/identite/am-banner.webp"
+    ],
+    "id": "projet-12",
+    "order": 12,
+    "cover": "images/am-project/identite/am-banner.webp",
+    "orientation": "mixed",
+    "resource_note": "Support disponible : bannière de marque. La distinction entre créations originales et éléments de marque préexistants reste à confirmer.",
+    "missing_message": null,
+    "captions": [
+      "AM Project — Identité visuelle"
+    ]
+  },
+  {
+    "slug": "am-site",
+    "brand": "AM Project",
+    "title": "Site web",
+    "category": "Webdesign · Communication digitale",
+    "presentation": "Présentation du site web réalisé pour AM Project, dans le cadre des créations numériques associées à l’entreprise.\n\nCe projet met en avant le travail de présentation des contenus et l’adaptation de la communication à un support web.",
+    "approach": "La présentation de cette réalisation doit permettre de découvrir l’organisation des pages, les choix graphiques visibles et la manière dont les contenus sont mis en valeur.\n\nLes outils, les fonctionnalités et mon rôle exact doivent être précisés uniquement à partir des informations et fichiers que je fournis.",
+    "description": "Présentation des contenus sur un support web",
+    "images": [
+      "images/non-integres/am-project-web/am-web-1.webp",
+      "images/non-integres/am-project-web/am-web-2.webp",
+      "images/non-integres/am-project-web/am-web-3.webp",
+      "images/non-integres/am-project-web/am-web-4.webp"
+    ],
+    "id": "projet-13",
+    "order": 13,
+    "cover": "images/non-integres/am-project-web/am-web-1.webp",
+    "orientation": "horizontal",
+    "resource_note": null,
+    "missing_message": null,
+    "captions": [
+      "Capture du site AM Project 1",
+      "Capture du site AM Project 2",
+      "Capture du site AM Project 3",
+      "Capture du site AM Project 4"
+    ]
+  }
+]

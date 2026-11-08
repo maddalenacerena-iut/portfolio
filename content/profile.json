@@ -1,0 +1,51 @@
+{
+  "email": "cerenaa.mdl@gmail.com",
+  "phone": "06 79 99 62 65",
+  "linkedin": "https://www.linkedin.com/in/c%C3%A9r%C3%A9na-maddalena-bb071b383",
+  "contact_endpoint": "https://formsubmit.co/cerenaa.mdl@gmail.com",
+  "hero_image": "images/accueil/fond-floral-recree.webp",
+  "about_image": null,
+  "experiences": [
+    {
+      "role": "Chargée de communication, marketing & développement commercial",
+      "company": "Ethiopik, agence de tourisme",
+      "period": "2025/2026",
+      "missions": [
+        "Développement de la visibilité de l’agence.",
+        "Création de contenus pour valoriser les offres touristiques.",
+        "Contribution à la stratégie de communication et au développement commercial."
+      ]
+    },
+    {
+      "role": "Stagiaire en communication",
+      "company": "AM Project, agence de communication",
+      "period": "2 mois",
+      "missions": [
+        "Création de supports visuels et de contenus digitaux.",
+        "Appui à la gestion de projets clients et à la réflexion créative.",
+        "Veille sur les tendances médias et les actions concurrentes."
+      ]
+    },
+    {
+      "role": "Service petit-déjeuner",
+      "company": "Hôtel Mercure, Grenoble",
+      "period": "2025",
+      "missions": [
+        "Accueil des clients.",
+        "Gestion du service et de la caisse.",
+        "Mise en place, dressage et entretien."
+      ]
+    },
+    {
+      "role": "Agent d’entretien",
+      "company": "Hôtel Mocka / Anyx",
+      "period": "2021/2024",
+      "missions": [
+        "Préparation et entretien des chambres.",
+        "Nettoyage des espaces communs et sanitaires.",
+        "Collaboration avec l’équipe pour garantir une expérience client soignée."
+      ]
+    }
+  ],
+  "contact_provider": "formsubmit"
+}
